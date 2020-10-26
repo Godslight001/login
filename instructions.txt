@@ -1,0 +1,4 @@
+Welcome to python tutorial class, this class would be a very
+interactive and interesting class.
+
+Remain focused and avoid all forms of distraction.
